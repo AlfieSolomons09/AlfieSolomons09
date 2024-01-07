@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Chetan Choudhary
-- 👀 I’m interested in iOS Application Development
+- 👀 I’m interested in Full Stack Developement
 - 🌱 I’m currently learning swift
 - 💞️ I’m looking to collaborate on iOS app development projects
 - 📫 How to reach me ... my email is chetanchoudhary597@gmail.com or my linkedin account https://www.linkedin.com/in/chetan-choudhary-0838b7223/
